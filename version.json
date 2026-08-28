@@ -1,0 +1,5 @@
+{
+  "versionCode": 9,
+  "version": "0.09",
+  "notes": "v0.09 — Actualizador automático: la app chequea al abrir si hay una versión nueva publicada y permite descargarla/instalarla sin pasar por Google Play."
+}
