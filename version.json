@@ -1,5 +1,5 @@
 {
-  "versionCode": 12,
-  "version": "0.3.0",
-  "notes": "v0.3.0 — Ecualización en tiempo real (3 presets + modo avanzado con sliders y presets personalizados) y reducción de ruido/eco nativos donde el dispositivo lo soporte."
+  "versionCode": 13,
+  "version": "0.4.0",
+  "notes": "v0.4.0 — Ajustes completos (Apariencia/Almacenamiento/Acerca de), la grabación se pausa sola si se interrumpe por otro audio (ej. una llamada), y Novedades/Mis grabaciones con mejor presentación visual."
 }
