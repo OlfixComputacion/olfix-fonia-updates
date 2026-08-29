@@ -1,5 +1,5 @@
 {
-  "versionCode": 17,
-  "version": "0.6.0",
-  "notes": "v0.6.0 — Primera integración de código nativo (NDK+CMake+Oboe): passthrough de audio de baja latencia mic→auriculares como prueba técnica (Ajustes → Experimental), base para la futura función \"Súper Oído\"."
+  "versionCode": 19,
+  "version": "0.7.0",
+  "notes": "v0.7.0 — Súper Oído completo: compresor/limitador de seguridad auditiva, NoiseSuppressor nativo, ganancia manual ajustable, servicio en primer plano (sobrevive pantalla bloqueada) y grabación en simultáneo mientras se usa Súper Oído."
 }
