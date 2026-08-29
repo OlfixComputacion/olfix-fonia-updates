@@ -1,5 +1,5 @@
 {
-  "versionCode": 16,
-  "version": "0.5.0",
-  "notes": "v0.5.0 — Selector de formato de grabación (AAC por defecto, WAV o FLAC sin pérdida) en Ajustes, más 2 presets de ecualización nuevos (Reunión/Naturaleza) y preset por defecto cambiado a Voz."
+  "versionCode": 17,
+  "version": "0.6.0",
+  "notes": "v0.6.0 — Primera integración de código nativo (NDK+CMake+Oboe): passthrough de audio de baja latencia mic→auriculares como prueba técnica (Ajustes → Experimental), base para la futura función \"Súper Oído\"."
 }
