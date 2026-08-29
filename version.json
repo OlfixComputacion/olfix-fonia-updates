@@ -1,5 +1,5 @@
 {
-  "versionCode": 19,
-  "version": "0.7.0",
-  "notes": "v0.7.0 — Súper Oído completo: compresor/limitador de seguridad auditiva, NoiseSuppressor nativo, ganancia manual ajustable, servicio en primer plano (sobrevive pantalla bloqueada) y grabación en simultáneo mientras se usa Súper Oído."
+  "versionCode": 21,
+  "version": "0.8.1",
+  "notes": "v0.8.1 — Mis grabaciones: agregado renombrar (cambia el nombre real del archivo, no solo el índice), con validación de nombre vacío o con caracteres inválidos."
 }
